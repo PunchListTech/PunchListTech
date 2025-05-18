@@ -1,0 +1,49 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #1f1f1f;
+    color: #fefefe;
+    line-height: 1.6;
+}
+header {
+    text-align: center;
+    padding: 2rem;
+    background-color: #FFD600;
+    color: #1f1f1f;
+}
+.logo {
+    max-width: 120px;
+}
+.tagline {
+    font-size: 1.2rem;
+}
+section {
+    padding: 2rem;
+}
+h2 {
+    color: #FFD600;
+}
+.features ul {
+    list-style: none;
+    padding: 0;
+}
+.features li {
+    margin: 0.5rem 0;
+}
+.contact-btn, .insta-btn {
+    display: inline-block;
+    margin: 1rem 1rem 0 0;
+    padding: 0.75rem 1.5rem;
+    background-color: #FFD600;
+    color: #1f1f1f;
+    text-decoration: none;
+    border-radius: 5px;
+}
+footer {
+    text-align: center;
+    padding: 1rem;
+    background-color: #333;
+    color: #aaa;
+}
